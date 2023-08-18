@@ -31,5 +31,10 @@ body {
     font-size: 16px;
     color: aquamarine;
 }
-
+/* foder */
+  .footer-copeyright{
+    font-size: 21px;
+    color: grey;
+    text-align: right;
+  }
 
